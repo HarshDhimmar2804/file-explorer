@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.container{
+  border-left: 1px solid black;
+  padding-left: 0.5rem;
+}
+
+span{
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
